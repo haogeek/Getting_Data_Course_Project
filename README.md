@@ -1,20 +1,14 @@
 # Getting and Clearning Data - Course Project
 
----
-
 This repository includes a R script and relevant files for the “Getting and Cleaning Data” course project on Coursera which hosts by John Hopkins University.
 
 #Files
-
----
 
 * `run_analysis.R` is a R script contains all codes needed for analyse the dataset
 * `tidydata.txt` is the output tidy dataset from above
 * `CodeBook.md` describes the variables in `tidydata.txt`
 
 #Performming
-
----
 
 The original dataset being used is from [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
