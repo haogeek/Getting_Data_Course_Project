@@ -1,7 +1,5 @@
 # Introduction
 
----
-
 The script `run_analysis.R`performs the 5 steps described in the README.md
 
 * First, read data using read.table(),the datasets we need is:
